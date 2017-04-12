@@ -25,7 +25,7 @@ body, hmtl {
     width: 50px;
     margin: 0 35px 0 35px;
 }
-.row .left, .row .right, .row .down {
+#left, #right, #down {
     margin: 0;
 }
 .row .active {
